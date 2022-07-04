@@ -18,7 +18,7 @@ Typically, you have to get your personal (and free) API key provided by [OpenWea
 
 The `CITY` needs to be the city ID (i.e. ID of Athens, GR is "264371") of your current city. You can get the CITY ID by searching your city using the [https://openweathermap.org/city/264371](https://openweathermap.org/city/264371) website. It should be the last number digits of the website. 
 
-The `API_KEY` should your personal (and free) key provided by the [OpenWeather](at https://openweathermap.org/api).
+The `API_KEY` should your personal (and free) key provided by the [OpenWeather](https://openweathermap.org/api).
 
 The `UNITS` field can be either `Metric` or `Imperial` for Celcius or Fahrenheit units, respectively. Then change the `UNIT_KEY` accordingly to "C" or "F".
 
