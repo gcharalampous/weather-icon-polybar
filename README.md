@@ -2,6 +2,8 @@
 
 This polybar plugin uses the OpenWeather API to get and display information about your city's current weather. The plugin provides a detailed description of the current weather conditions and the temperature. The icons change according to the local weather conditions, always considering the local sunrise and sunset times.
 
+![A few weather icons](weather-icons-all.png)
+
 Typically, you have to get your personal (and free) API key provided by [OpenWeather](at https://openweathermap.org/api).
 
 ## Configuration
