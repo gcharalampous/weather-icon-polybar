@@ -29,7 +29,7 @@ Finally, the language field `LANG`, can be set to your native language if prefer
 2. Clone the repository and copy the script to your polybar script folder
   ```sh
   # Clone the repository
-  git clone https://github.com/gcharalampous/weather-icom-polybar
+  git clone https://github.com/gcharalampous/weather-icon-polybar
   cd weather-icom-polybar
   # Copy the script to /your/polybar/scripts/folder
   cp weather-icons.sh /your/polybar/scripts/folder
